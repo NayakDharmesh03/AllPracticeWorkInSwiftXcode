@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="17701" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="BYZ-38-t0r">
+    <device id="retina6_1" orientation="portrait" appearance="light"/>
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="17703"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="System colors in document resources" minToolsVersion="11.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="tne-QT-ifu">
+            <objects>
+                <viewController id="BYZ-38-t0r" customClass="ViewController" customModule="ButtonDisign" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" contentMode="scaleToFill" id="8bC-Xf-vdC">
+                        <rect key="frame" x="0.0" y="0.0" width="414" height="896"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="czZ-7A-CKU">
+                                <rect key="frame" x="172" y="428" width="70" height="40"/>
+                                <color key="backgroundColor" red="0.35391695210000002" green="0.95406142979999997" blue="1" alpha="1" colorSpace="calibratedRGB"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="70" id="Hc3-f1-d4X"/>
+                                    <constraint firstAttribute="height" constant="40" id="d8p-wv-wk9"/>
+                                </constraints>
+                                <state key="normal" title="Button"/>
+                                <connections>
+                                    <action selector="changeBgColor:" destination="BYZ-38-t0r" eventType="touchUpInside" id="qi4-Ac-Y2D"/>
+                                </connections>
+                            </button>
+                        </subviews>
+                        <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
+                        <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                        <constraints>
+                            <constraint firstItem="czZ-7A-CKU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="2OC-WX-E6V"/>
+                            <constraint firstItem="czZ-7A-CKU" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="5ad-Ry-d6m"/>
+                            <constraint firstItem="czZ-7A-CKU" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="XQs-Su-21p"/>
+                            <constraint firstItem="czZ-7A-CKU" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="ret-7W-C5N"/>
+                        </constraints>
+                    </view>
+                    <connections>
+                        <outlet property="mainView" destination="8bC-Xf-vdC" id="16H-TA-VMX"/>
+                    </connections>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="140.57971014492756" y="59.598214285714285"/>
+        </scene>
+    </scenes>
+    <resources>
+        <systemColor name="systemBackgroundColor">
+            <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+    </resources>
+</document>

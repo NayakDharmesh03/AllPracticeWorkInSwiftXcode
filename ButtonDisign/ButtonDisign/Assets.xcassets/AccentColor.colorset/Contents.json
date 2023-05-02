@@ -1,0 +1,12 @@
+{
+  "colors" : [
+    {
+      "filename" : "icons8-image-64.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

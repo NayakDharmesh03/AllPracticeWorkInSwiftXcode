@@ -1,0 +1,493 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1C4B72A2-CB67-4C19-AA0D-82E75E3D36C1"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/TextViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "TextViewViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7 - 5088673041024e4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.__deallocating_deinit"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7 - 4045ff747a75b360"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.__allocating_init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ComponentsOfUIApp.TextViewViewController"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7 - 63d9678c514beebb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ComponentsOfUIApp.TextViewViewController"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "257">
+               </Location>
+               <Location
+                  uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7 - 1a1777d1c24d24c7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.__allocating_init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ComponentsOfUIApp.TextViewViewController&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "919CC4C2-DF8E-4AC8-AD72-E503DDD34AF7 - ccefbc06dee07a6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ComponentsOfUIApp.TextViewViewController&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "198">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3515FF1F-6375-47A2-ABE6-315B59C91CE5"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/TextViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "104"
+            endingLineNumber = "104"
+            landmarkName = "alertMassageBox(massage:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "D494308F-05DB-47EE-BD4D-1A88B2F4FDD6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/TextViewViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "alertMassageBox(massage:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "D494308F-05DB-47EE-BD4D-1A88B2F4FDD6 - c1b02ecfb62a08cd"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextViewViewController.alertMassageBox(massage: Swift.String) -&gt; ()"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "69"
+                  endingLineNumber = "69"
+                  offsetFromSymbolStart = "367">
+               </Location>
+               <Location
+                  uuid = "D494308F-05DB-47EE-BD4D-1A88B2F4FDD6 - 451856bbfa8d3c1d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 (__C.UIAlertAction) -&gt; () in ComponentsOfUIApp.TextViewViewController.alertMassageBox(massage: Swift.String) -&gt; ()"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextViewViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "70"
+                  endingLineNumber = "70"
+                  offsetFromSymbolStart = "20">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4A07FC8C-B072-4B0C-BD27-8AE5D525BEF6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/SliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "SliderViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "60E9E53A-46B3-43B2-A037-772EEFFE86F0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/SliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C9E1354A-51DD-49C1-B6BC-C767285CBEB1"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/ActivityIndicatorViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "19"
+            endingLineNumber = "19"
+            landmarkName = "viewWillAppear(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EC0BCB26-4967-4762-9587-D56FDD0A4273"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "PageControl.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "2"
+            endingLineNumber = "2"
+            landmarkName = "unknown"
+            landmarkType = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/TextFieldValidation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "TextFieldValidation"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 6702d113ce91089d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.tfusername.getter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 86787d846953dc91"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.tfusername.setter : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 38206d0abd4597b2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.tfusername.modify : Swift.Optional&lt;__C.UITextField&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 63c29e19cb39695d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.tfusername.modify : Swift.Optional&lt;__C.UITextField&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 8282fde4428f6a1a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ComponentsOfUIApp.TextFieldValidation"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "692">
+               </Location>
+               <Location
+                  uuid = "6D3FC17A-EAB7-4CE3-A5BF-B49CFAF7546D - 85feef108e247d70"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.TextFieldValidation.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ComponentsOfUIApp.TextFieldValidation&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/ComponentsOfUIApp/ComponentsOfUIApp/TextFieldValidation.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "633">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "87C51F0E-0439-4D51-993E-BDDD6EC5BCDF"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/SegmentsVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "16330ADA-6B15-4752-931A-FC6413F6C12A"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/TextFieldValidation.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "0AD3E5C8-241E-40D9-B050-1A631C9C3CBA"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/SliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "51"
+            endingLineNumber = "51"
+            landmarkName = "sliderChangeColor(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ComponentsOfUIApp/SliderViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "SliderViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - a02e1757dae362e6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.setAge.getter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - 93dc2052f53ed2"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.setAge.setter : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "155">
+               </Location>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - bd0ed8a88ad53a16"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.setAge.modify : Swift.Optional&lt;__C.UILabel&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "59">
+               </Location>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - e173ebe4eeb43335"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.setAge.modify : Swift.Optional&lt;__C.UILabel&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - c09fee56f63a4b7e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; ComponentsOfUIApp.SliderViewController"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "420">
+               </Location>
+               <Location
+                  uuid = "8C982AC3-1F2F-42E1-8413-ACF69ACA7275 - 8e1cad7a56cfdce8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ComponentsOfUIApp.SliderViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;ComponentsOfUIApp.SliderViewController&gt;"
+                  moduleName = "ComponentsOfUIApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/macbookpro/Documents/Dharmesh/PracticeWork/ComponentsOfUIApp/ComponentsOfUIApp/SliderViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "361">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
